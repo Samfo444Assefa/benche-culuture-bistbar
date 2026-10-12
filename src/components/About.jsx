@@ -12,18 +12,13 @@ export default function About() {
       <p className="quote">“Heritage is not only something we remember. It is something we practice, share and pass to the next generation.”</p>
     </div>
      <div className="culture1-card reveal">
-  {/* <video
-    className="culture1-video"
-    autoPlay
-    muted
-    loop
-    playsInline
-    preload="auto"
-  >
-    <source src="assets/hero-video-1.mp4" type="video/mp4" />
-    Your browser does not support the video tag.
-  </video> */}
-<div className="culture-card reveal"><div className="card-caption"></div></div>
+  
+<img
+  className="culture-card reveal"
+  src="/assets/hero-11.jpg"
+  alt="Ethiopian Cultural Celebration"
+/>
+
 <div className="culture1-overlay"></div>
 
 </div>
