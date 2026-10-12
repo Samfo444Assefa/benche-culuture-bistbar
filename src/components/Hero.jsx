@@ -511,7 +511,7 @@ export default function Hero() {
             </small>
 
             <strong>
-              December 12, 2026
+              December, 2026
             </strong>
 
           </div>
