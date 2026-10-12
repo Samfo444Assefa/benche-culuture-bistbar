@@ -35,7 +35,11 @@ export default function About() {
 .</p>
       <p className="lead">This custom clearly demonstrates the profound respect accorded to fathers and elders within Bench culture. Children are obliged to address and honor their fathers—just as wives do their husbands, and younger individuals their elders—using the respectful term "Yinti." This practice of respectful address is a value accorded to individuals with dignity, regardless of gender, and is rooted in the traditional *Bist Bar* system.</p>
     </div>
-   <div className="culture-card reveal"><div className="card-caption"></div></div>
+   <img
+  className="culture-card reveal"
+  src="/assets/hero-6.jpg"
+  alt="Ethiopian Cultural Celebration"
+/>
   </div>
   </section>;
 }
