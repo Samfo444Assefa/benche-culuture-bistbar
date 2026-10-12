@@ -24,7 +24,7 @@ export default function About() {
     Your browser does not support the video tag.
   </video> */}
 <div className="culture-card reveal"><div className="card-caption"></div></div>
-  <div className="culture1-overlay"></div>
+<div className="culture1-overlay"></div>
 
 </div>
     
