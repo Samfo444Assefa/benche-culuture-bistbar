@@ -1,8 +1,8 @@
 export default function Testimonials() {
   const testimonials = [
-    ['hero-12.jpg','Culture Bearer','Traditional Heritage','Our traditions connect the generations. When young people learn the songs, clothing, stories and dances, the culture continues.'],
-    ['hero-12.jpg','Community Voice','Bench Community','A celebration gives our community a place to come together, remember where we came from and share that heritage with the next generation.'],
-    ['hero-12.jpg','Cultural Participant','Bench Heritage','Culture is something we live. It is in our music, our movement, our clothing, our hospitality and the way we gather as a community.'],
+    ['hero-12.jpg','Culture Bearer','','Our traditions connect the generations. When young people learn the songs, clothing, stories and dances, the culture continues.'],
+    ['hero-11.jpg','Culture Beare','','A celebration gives our community a place to come together, remember where we came from and share that heritage with the next generation.'],
+    ['hero-1.jpg','Culture Beare','','Culture is something we live. It is in our music, our movement, our clothing, our hospitality and the way we gather as a community.'],
   ];
   return <section className="section voices" id="voices"><div className="wrap">
     <div className="voices-heading reveal"><div><div className="section-kicker">Voices of Heritage</div><h2 className="section-title">The people who<br /><em>carry the story.</em></h2></div><p className="lead">Bisit Bar is not only a celebration to watch. It is a culture carried by people who remember, practice and teach the traditions of the Bench community.</p></div>
