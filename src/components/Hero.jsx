@@ -558,9 +558,7 @@ export default function Hero() {
               EXPERIENCE
             </small>
 
-            <strong>
-              Living Heritage
-            </strong>
+            
 
           </div>
 
@@ -579,9 +577,7 @@ export default function Hero() {
               DISCOVER
             </small>
 
-            <strong>
-              Authentic Culture
-            </strong>
+           
 
           </div>
 
